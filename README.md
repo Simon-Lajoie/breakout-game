@@ -1,4 +1,4 @@
-# BREAKOUT GAME
+# BREAKOUT
 Breakout is a classic arcade-style game created using C# and the Windows Forms Application framework. The project utilizes an UI with smooth gameplay and challenging levels. Players control a paddle to hit a ball and break through a wall of bricks, earning points along the way.
 
 ## Features
