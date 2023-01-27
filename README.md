@@ -10,8 +10,8 @@ Breakout is a classic arcade-style game created using C# and the Windows Forms A
 * Random image are assigned to each bricks when drawing them
 
 ## Technologies
-* Windows Forms
 * C#
+* Windows Forms
 
 ## How to play
 1. To run the game, simply double-click on the 'breakout.exe' file. This will launch the game and you will be able to play immediately. Make sure you have the latest version of .NET framework installed on your system to be able to run the game properly.
